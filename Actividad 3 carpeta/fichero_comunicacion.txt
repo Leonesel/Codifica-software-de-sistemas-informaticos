@@ -1,0 +1,3 @@
+Información de los alumnos:
+15, 13/04/2009, Eduardo Leonel Navarro Avila.
+17, 14/5/2098, Juan perez.
